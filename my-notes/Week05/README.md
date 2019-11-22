@@ -40,4 +40,4 @@ in the blueprint - BlueprintImplementable
 
 ### Timers
 We can have timers for cooldown and cooldown dilation if we want to have an
-ability that changed cooldowns
+ability that changed cooldowns  
